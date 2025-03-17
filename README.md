@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **flutter ,web development**
 
-- 💬 Ask me about **flutter,angular and NodeJs**
+- 💬 Ask me about **flutter and NodeJs**
 
 - 📫 How to reach me **abdoarfat924@gmail.com**
 
