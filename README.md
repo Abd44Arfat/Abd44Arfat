@@ -33,7 +33,7 @@
 
 <h3 align="left">🚀 My Published Apps:</h3>
 <p align="left">
-  <a href="https://apps.apple.com/app/idYOUR_APP_ID" target="_blank">
+  <a href="https://apps.apple.com/us/app/tasky-list/id6749329470?platform=iphone" target="_blank">
     <img src="https://github.com/user-attachments/assets/183306eb-2388-422a-b06a-ff5ff435bccf" alt="App 1" width="120" style="margin-right: 10px;"/>
   </a>
   <a href="https://apps.apple.com/app/idYOUR_APP_ID2" target="_blank">
