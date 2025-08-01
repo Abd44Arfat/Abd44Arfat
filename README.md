@@ -31,12 +31,17 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abd44arfat&" alt="abd44arfat" /></p>
 
 
-
-## 🚀 Published Apps
-
-- <a href="https://apps.apple.com/app/idYOUR_APP_ID" target="_blank">MyApp on iOS</a>
-
-  <img src="https://user-images.githubusercontent.com/YOUR_IMAGE_PATH.png" alt="My App" width="300" />
-
+<h3 align="left">🚀 My Published Apps:</h3>
+<p align="left">
+  <a href="https://apps.apple.com/app/idYOUR_APP_ID" target="_blank">
+    <img src="https://your-image-link.com/app1.png" alt="App 1" width="120" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://apps.apple.com/app/idYOUR_APP_ID2" target="_blank">
+    <img src="https://your-image-link.com/app2.png" alt="App 2" width="120" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=YOUR_APP_ID" target="_blank">
+    <img src="https://your-image-link.com/app3.png" alt="App 3" width="120" style="margin-right: 10px;"/>
+  </a>
+</p>
 
 
