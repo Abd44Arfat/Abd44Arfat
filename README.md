@@ -23,10 +23,10 @@
 
 <h3 align="left">🚀 My Published Apps:</h3>
 <p align="left">
-  <a href="[https://apps.apple.com/us/app/tasky-list/id6749329470?platform=iphone](https://play.google.com/store/apps/details?id=com.abdelrahman.dhikrapp&hl=ar)" target="_blank">
-    <img src="https://github.com/user-attachments/assets/183306eb-2388-422a-b06a-ff5ff435bccf" alt="App 1" width="120" style="margin-right: 10px;"/>
+  <a href="https://play.google.com/store/apps/details?id=com.abdelrahman.dhikrapp&hl=ar" target="_blank">
+    <img src="https://github.com/user-attachments/assets/40280086-828b-4f54-8750-9a3f9803ff2a" alt="App 1" width="120" style="margin-right: 10px;"/>
   </a>
-</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
