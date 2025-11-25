@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abdoarfat924@gmail.com**
 
-- ⚡ Fun fact **hardworking ,studying , lelearn what is new , become better than other**
+- ⚡ Fun fact **hardworking ,studying , learn what is new ,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
