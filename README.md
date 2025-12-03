@@ -26,7 +26,7 @@
   <a href="https://play.google.com/store/apps/details?id=com.abdelrahman.dhikrapp&hl=ar" target="_blank">
     <img src="https://github.com/user-attachments/assets/40280086-828b-4f54-8750-9a3f9803ff2a" alt="App 1" width="120" style="margin-right: 10px;"/>
   </a>
-  <a href="https://play.google.com/store/apps/details?id=com.abdelrahman.dhikrapp&hl=ar" target="_blank">
+  <a href="[https://play.google.com/store/apps/details?id=com.abdelrahman.dhikrapp&hl=ar](https://apps.apple.com/us/app/quack-plan/id6753897281)" target="_blank">
 <img width="127" height="127" alt="Group 1597884519" src="https://github.com/user-attachments/assets/a149d87a-2474-41da-91c6-0278575dec25" />  </a>
 </p>
 
