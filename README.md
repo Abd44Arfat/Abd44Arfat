@@ -26,7 +26,10 @@
   <a href="https://play.google.com/store/apps/details?id=com.abdelrahman.dhikrapp&hl=ar" target="_blank">
     <img src="https://github.com/user-attachments/assets/40280086-828b-4f54-8750-9a3f9803ff2a" alt="App 1" width="120" style="margin-right: 10px;"/>
   </a>
-
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.abdelrahman.dhikrapp&hl=ar" target="_blank">
+    <img src="https://github.com/user-attachments/assets/40280086-828b-4f54-8750-9a3f9803ff2a" alt="App 1" width="120" style="margin-right: 10px;"/>
+  </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
