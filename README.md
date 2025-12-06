@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abd44arfat&label=Profile%20views&color=0e75b6&style=flat" alt="abd44arfat" /> </p>
 
-- 👯  I’m currently learning **DevOps**
+- I’m currently learning **DevOps**
 
-- 🤝 I’m looking for help with **flutter ,iOS development** ,web development**
-
-- 💬 Ask me about **flutter and NodeJs**
+- Ask me about **flutter ,iOS development** ,web development**
 
 - 📫 How to reach me **abdoarfat924@gmail.com**
 
