@@ -5,7 +5,7 @@
 
 - 👯  I’m currently learning **DevOps**
 
-- 🤝 I’m looking for help with **flutter ,web development**
+- 🤝 I’m looking for help with **flutter ,iOS development** ,web development**
 
 - 💬 Ask me about **flutter and NodeJs**
 
